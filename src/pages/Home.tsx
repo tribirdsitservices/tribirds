@@ -44,9 +44,9 @@ const Home = () => (
               <Zap size={16} className="animate-pulse" /> 
               <span>Engineering the Future</span>
               <div className="flex -space-x-1 ml-2">
-                {[1, 2, 3].map((i) => (
+                {/* {[1, 2, 3].map((i) => (
                   <div key={i} className="w-5 h-5 rounded-full bg-gradient-to-br from-primary to-accent border-2 border-background" />
-                ))}
+                ))} */}
               </div>
             </motion.div>
             

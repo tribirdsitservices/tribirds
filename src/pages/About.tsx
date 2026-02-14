@@ -131,7 +131,7 @@ const About = () => (
       </div>
     </section>
 
-    {/* Team teaser */}
+    {/* Team teaser
     <section className="section-padding bg-card/50 relative overflow-hidden">
       <div className="container mx-auto">
         <SectionHeading label="Our People" title="Meet the Team" subtitle="A passionate team of engineers, designers, and strategists." />
@@ -168,7 +168,7 @@ const About = () => (
           </div>
         </motion.div>
       </div>
-    </section>
+    </section> */}
 
     <CTABanner title="Let's work together" subtitle="Ready to start your next project? We'd love to hear from you." />
   </>

@@ -109,5 +109,5 @@ export const SERVICE_OPTIONS = [
 
 /* Client logos placeholder names */
 export const CLIENT_LOGOS = [
-  "Ionaught Technologies", "SNDK", "VerdeVidaenergies", "TakeOff", "VastraVilla", "Many More..."
+  "Ionaught Technologies", "SNDK Corp", "VerdeVidaenergies", "TakeOff", "VastraVilla", "Many More..."
 ] as const;
